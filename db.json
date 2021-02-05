@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "shereen",
+      "phone": "0112340",
+      "age": 22
+    },
+    {
+      "id": 2,
+      "name": "reham",
+      "phone": "01262340",
+      "age": 24
+    },
+    {
+      "id": 3,
+      "name": "shereen",
+      "phone": "012212340",
+      "age": 26
+    },
+    {
+      "id": 5,
+      "name": "reham",
+      "phone": "33827",
+      "age": 29
+    },
+    {
+      "id": 8,
+      "name": "ahmed",
+      "phone": "00112340",
+      "age": 23
+    },
+    {
+      "name": "donia",
+      "phone": "220220",
+      "age": "23",
+      "id": 9
+    },
+    {
+      "name": "donia",
+      "phone": "22222",
+      "age": "18",
+      "id": 10
+    }
+  ]
+}
